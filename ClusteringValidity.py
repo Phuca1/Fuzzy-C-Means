@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  3 06:38:36 2020
 
-@author: huu_linh
-"""
 from scipy.spatial import distance
 import numpy as np
 from DaviesBouldin import DaviesBouldin
